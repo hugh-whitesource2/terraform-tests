@@ -4,7 +4,7 @@
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": [],
-    "iaCFramework": "terraform"
+    "iaCFramework": ["terraform"]
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
